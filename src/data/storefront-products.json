@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Beginner Strength Foundations",
+    "slug": "beginner-strength-foundations",
+    "whopProductId": "prod_8wTHcYqSpfv2O",
+    "variants": [
+      {
+        "whopPlanId": "plan_F238hn7cMbpH7"
+      }
+    ]
+  },
+  {
+    "title": "Home Workout Starter Kit",
+    "slug": "home-workout-starter-kit",
+    "whopProductId": "prod_Gsxffwyenxyl2",
+    "variants": [
+      {
+        "whopPlanId": "plan_cL7P30fSeqKfL"
+      }
+    ]
+  },
+  {
+    "title": "Mobility & Flexibility Program",
+    "slug": "mobility-flexibility-program",
+    "whopProductId": "prod_XFdet1EPW6tEk",
+    "variants": [
+      {
+        "whopPlanId": "plan_1i1HVCmm2zSXy"
+      }
+    ]
+  },
+  {
+    "title": "Progressive Overload Training Guide",
+    "slug": "progressive-overload-training-guide",
+    "whopProductId": "prod_5yudbMpbcfRfy",
+    "variants": [
+      {
+        "whopPlanId": "plan_eF0pzJbZwKLlB"
+      }
+    ]
+  },
+  {
+    "title": "Complete Strength Bundle",
+    "slug": "complete-strength-bundle",
+    "whopProductId": "prod_Jv8o1KeILkiq4",
+    "variants": [
+      {
+        "whopPlanId": "plan_dxgqHk4bQm7W1"
+      }
+    ]
+  }
+]
